@@ -1,0 +1,8 @@
+prefix=/home/kaushik/catkin_ws/devel
+
+Name: realsense_camera
+Description: Description of realsense_camera
+Version: 1.8.1
+Cflags: -I/home/kaushik/catkin_ws/devel/include -I/home/kaushik/catkin_ws/src/realsense-1.8.1/realsense_camera/include
+Libs: -L/home/kaushik/catkin_ws/devel/lib -lrealsense_camera_nodelet
+Requires: std_msgs message_runtime sensor_msgs librealsense

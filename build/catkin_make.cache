@@ -1,0 +1,2 @@
+b_tutorial:realsense-1.8.1/realsense_camera:syncnode
+-DCATKIN_DEVEL_PREFIX=/home/kaushik/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/kaushik/catkin_ws/install -G Unix Makefiles

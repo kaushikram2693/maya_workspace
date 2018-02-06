@@ -1,0 +1,2 @@
+set(realsense_camera_MESSAGE_FILES "/home/kaushik/catkin_ws/src/realsense-1.8.1/realsense_camera/msg/IMUInfo.msg")
+set(realsense_camera_SERVICE_FILES "/home/kaushik/catkin_ws/src/realsense-1.8.1/realsense_camera/srv/CameraConfiguration.srv;/home/kaushik/catkin_ws/src/realsense-1.8.1/realsense_camera/srv/ForcePower.srv;/home/kaushik/catkin_ws/src/realsense-1.8.1/realsense_camera/srv/SetPower.srv;/home/kaushik/catkin_ws/src/realsense-1.8.1/realsense_camera/srv/IsPowered.srv;/home/kaushik/catkin_ws/src/realsense-1.8.1/realsense_camera/srv/GetIMUInfo.srv")

@@ -1,0 +1,8 @@
+prefix=/home/kaushik/catkin_ws/install
+
+Name: syncnode
+Description: Description of syncnode
+Version: 0.0.0
+Cflags: -I/home/kaushik/catkin_ws/install/include
+Libs: -L/home/kaushik/catkin_ws/install/lib -lsyncnode
+Requires: message_filters roscpp sensor_msgs message_runtime
